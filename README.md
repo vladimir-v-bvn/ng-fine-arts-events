@@ -1,2 +1,2 @@
 # ng-fine-arts-events
- FineArtsEvents Angular
+ FineArtsEvents Angular Client
